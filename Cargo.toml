@@ -1,0 +1,10 @@
+[package]
+name = "rs-diesel-query"
+version = "1.0.0"
+edition = "2021"
+description = "Diesel-compatible query DSL with type-safe joins"
+license = "MIT"
+
+[[bin]]
+name = "rs_diesel_query"
+path = "main.rs"
